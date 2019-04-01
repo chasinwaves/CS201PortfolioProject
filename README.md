@@ -9,3 +9,4 @@ To use this program, simply download the database and unzip it into the same fil
 Then just run the makefile and you will be confronted with a title screen with multiple options.
 
 The screens are completely navigatable by arrow keys and the keyboard is used for select entries.
+An overview can be seen at https://youtu.be/Y3kyhp2uaaM
